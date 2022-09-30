@@ -7,7 +7,7 @@ Python + MySQL Database
 # How To Run
 ## Requirements
 
-1. Download and Install any Local web serer such as XAMPP/WAMP.
+1. Download and Install any Local web server such as XAMPP/WAMP.
 2. .py file editor software such as PyCharm, Python.
 
 ## Installation/Setup
