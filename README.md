@@ -27,4 +27,4 @@ Login and Register
 # Feedback
 Any suggestion and feedback is welcome. You can message me on Instagram
 
-1. https://www.instagram.com/itz_me_sooriii?r=nametag
+- https://www.instagram.com/itz_me_sooriii?r=nametag
